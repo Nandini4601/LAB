@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "741818230980",
+    "project_id": "madlab-6d49b",
+    "storage_bucket": "madlab-6d49b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741818230980:android:79495246f2510fc858c191",
+        "android_client_info": {
+          "package_name": "com.example.loginnn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741818230980-1e6ee9lfs98mv7f6ek54im432devtmlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGwDkUrDvXDmeVlSnol5E1_XMWUThpO4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741818230980-1e6ee9lfs98mv7f6ek54im432devtmlm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
